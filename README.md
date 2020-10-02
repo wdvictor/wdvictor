@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, i'm **Victor Hugo**
+<h1 align="start"> I'm a software engineer student </h1>
 
-<!--
-**wdvictor/wdvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Working with Flutter web development
+ - Firebase 
+ - Software requirements
+ - Agile development
 
-Here are some ideas to get you started:
+<h2> I'm also:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Love play with digital circuits
+ - I love pc games
+ - Police thriller books
