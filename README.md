@@ -7,7 +7,6 @@ Hi there, i'm **Victor Hugo**
  - Agile development
 
 <h2> I'm also:</h2>
-
- - Love play with digital circuits
  - I love pc games
  - Police thriller books
+ - Skate
