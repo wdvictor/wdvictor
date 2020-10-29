@@ -9,4 +9,4 @@ Hi there, i'm **Victor Hugo**
 <h2> I'm also:</h2>
  - I love pc games
  - Police thriller books
- - Skate
+ - Skating
