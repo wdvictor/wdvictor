@@ -1,7 +1,7 @@
 Hi there, i'm **Victor Hugo**
 <h1 align="start"> I'm a software engineer student </h1>
 
- - Working with Flutter web development
+ - Working with Flutter web/mobile development
  - Firebase
  - Agile development
 
