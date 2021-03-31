@@ -3,7 +3,7 @@ Hi there, i'm **Victor Hugo**
 
 # Flutter mobile and web developer
 
- - 1 year and 3 months of web and mobile development with Dart / Flutter
+ - Web and mobile development with Dart / Flutter
  - Backend development with firebase cloud functions with typescript
  - Agile development
 
