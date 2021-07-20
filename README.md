@@ -23,10 +23,11 @@ Hi there, i'm **Victor Hugo**
 
 #  I'm also like:
 
--  Python programing
+- Python programing
+- Bash
 - Machine learning and AI
 - Police thriller books
-- Games
+- Horror Games
 
 
 <a href="https://www.instagram.com/victorhp.a/">
