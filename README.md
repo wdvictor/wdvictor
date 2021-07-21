@@ -24,7 +24,7 @@ Hi there, i'm **Victor Hugo**
 #  I'm also like:
 
 - Python programing
-- Bash
+- Shell 
 - Machine learning and AI
 - Police thriller books
 - Horror Games
