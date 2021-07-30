@@ -1,16 +1,15 @@
 
 Hi there, i'm **Victor Hugo**
 
-# Flutter mobile and web developer
+# Flutter developer
 
  - Web and mobile development with Dart / Flutter
- - Backend development with firebase cloud functions with typescript
+ - Backend development with firebase cloud functions with typescript/javascript
+ - Shell scripting
+ - Linux
  - Agile development
 
-<img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/>
-<img src="https://img.icons8.com/color/50/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/50/000000/firebase.png"/> 
-
+<img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/><img src="https://img.icons8.com/color/50/000000/linux--v1.png"/><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/>
 
 
 
@@ -24,7 +23,6 @@ Hi there, i'm **Victor Hugo**
 #  I'm also like:
 
 - Python programing
-- Shell 
 - Machine learning and AI
 - Police thriller books
 - Horror Games
