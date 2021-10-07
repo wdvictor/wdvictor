@@ -1,8 +1,7 @@
-
+ 
 Hi there, i'm **Victor Hugo**
 
-# Flutter developer
-
+# Flutter mobile developer and Linux enthusiast apprentice
  - Web and mobile development with Dart / Flutter
  - Backend development with firebase cloud functions with typescript/javascript
  - Shell scripting
