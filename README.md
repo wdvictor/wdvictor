@@ -27,6 +27,10 @@ Hi there, i'm **Victor Hugo**
 - Horror Games
 
 
+
+-(Currently working with  gitlab, but my personal projects I keep here)
+
+
 <a href="https://www.instagram.com/victorhp.a/">
 <img src="https://img.icons8.com/office/50/000000/instagram-new.png"/>
 </a>
