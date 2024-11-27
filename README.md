@@ -1,13 +1,12 @@
  
 Hi there, i'm **Victor Hugo**
 
-# Flutter developer
+# Flutter | React | Python developer
  - Web and mobile development with Dart / Flutter
+ - Web development with React
+ - Python Developer
  - Backend development with firebase cloud functions with typescript/javascript
- - Shell scripting
- - Linux
- - Agile development
-
+ 
 <img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/><img src="https://img.icons8.com/color/50/000000/linux--v1.png"/><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/>
 
 
