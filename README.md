@@ -5,7 +5,7 @@ Hi there, i'm **Victor Hugo**
  - Web and mobile development with Dart / Flutter
  - Web development with React
  - Python Developer
- - Backend development with firebase cloud functions with typescript/javascript
+ - Backend development with firebase cloud functions with typescript
  
 <img src="https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000"/><img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/><img src="https://img.icons8.com/color/50/000000/linux--v1.png"/><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/><img src="https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=50&id=62452&format=png&color=000000"/>
