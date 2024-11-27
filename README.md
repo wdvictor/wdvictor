@@ -7,7 +7,7 @@ Hi there, i'm **Victor Hugo**
  - Python Developer
  - Backend development with firebase cloud functions with typescript/javascript
  
-<img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/><img src="https://img.icons8.com/color/50/000000/linux--v1.png"/><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/><img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"/><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/50/000000/flutter.png"/><img src="https://img.icons8.com/color/50/000000/dart.png"/><img src="https://img.icons8.com/color/50/000000/linux--v1.png"/><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/><img src="https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000"/>
 
 
 
