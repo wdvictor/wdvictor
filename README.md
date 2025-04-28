@@ -10,10 +10,7 @@ Hi there, i'm **Victor Hugo**
 
 
 
-
-
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=wdvictor&count_private=true&show_icons=true&theme=synthwave"><img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic&count_private=true&layout=compact&theme=synthwave">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic&count_private=true&layout=compact&theme=synthwave">
 
 <a href="https://www.instagram.com/victorhp.a/">
 <img src="https://img.icons8.com/office/50/000000/instagram-new.png"/>
