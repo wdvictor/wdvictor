@@ -4,7 +4,7 @@
 💻 I'm a **Flutter** & **Python** developer  
 📍 Based in Brasília - DF, Brazil  
 
-I’m passionate about creating elegant mobile apps and building intelligent systems. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks. My work spans from app development to data-driven AI projects.
+I enjoy solving real-world problems through technology and continuously learning new tools and frameworks. My work spans from app development to data-driven AI projects.
 
 ---
 
@@ -20,9 +20,10 @@ I’m passionate about creating elegant mobile apps and building intelligent sys
 
 ## 📊 Most Used Languages
 
-<p align="right">
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic&count_private=true&layout=compact&theme=synthwave">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic,java,Cmake,html,cpp&count_private=true&layout=compact&theme=synthwave" />
 </p>
+
 
 ---
 
