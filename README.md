@@ -20,7 +20,7 @@ I’m passionate about creating elegant mobile apps and building intelligent sys
 
 ## 📊 Most Used Languages
 
-<p align="left">
+<p align="right">
   <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic&count_private=true&layout=compact&theme=synthwave">
 </p>
 
