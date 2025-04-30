@@ -21,7 +21,7 @@ I’m passionate about creating elegant mobile apps and building intelligent sys
 ## 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/dfef92fa8bde2d5f3b99cb2e85d1dbf58c758508a456a63ce5146489a94b041b/68747470733a2f2f6769746875622d726561646d652d73746174732d736974652d746f702d6c616e67732e76657263656c2e6170702f6170692f3f757365726e616d653d7764766963746f72266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&layout=compact&langs_count=8&theme=radical" style="max-width: 100%;">
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdvictor&langs_count=10&hide=vhdl,tcl,batchfile,pascal,swift,kotlin,objective-c,purebasic&count_private=true&layout=compact&theme=synthwave">
 </p>
 
 ---
