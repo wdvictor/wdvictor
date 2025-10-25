@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Victor Hugo
 
 🎓 I'm an undergraduate student in **Data Science & Artificial Intelligence**  
-💻 I'm a **Flutter** & **Python** developer  
+💻 I'm a **Flutter**, **Kotlin** & **Python** developer
 📍 Based in Brasília - DF, Brazil  
 
 I enjoy solving real-world problems through technology and continuously learning new tools and frameworks. My work spans from app development to data-driven AI projects.
@@ -12,7 +12,8 @@ I enjoy solving real-world problems through technology and continuously learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  width=48/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" />
 </p>
 
 ---
