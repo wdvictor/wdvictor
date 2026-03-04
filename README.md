@@ -4,8 +4,6 @@
 💻 I'm a **Flutter**, **Kotlin** & **Python** developer
 📍 Based in Brasília - DF, Brazil  
 
-I enjoy solving real-world problems through technology and continuously learning new tools and frameworks. My work spans from app development to data-driven AI projects.
-
 ---
 
 ## 💼 Tech Stack
