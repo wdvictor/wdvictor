@@ -25,7 +25,7 @@ class VictorHugo:
     def __init__(self):
         self.name        = "Victor Hugo"
        
-        self.education   = "B.Sc. Data Science & Artificial Intelligence @ UnB"
+        self.education   = "Data Science & Artificial Intelligence"
         self.mindset     = ["Entrepreneurial", "Mathematical", "Product-driven"]
         self.currently   = ["Architecting high-scale backends", "Exploring LLM integrations"]
         self.stack       = {
