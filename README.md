@@ -1,46 +1,72 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Victor%20Hugo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Entrepreneurial%20Developer%20%C2%B7%20Mathematician%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     ANIMATED HEADER                           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Victor%20Hugo&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/wdvictor">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+products+at+the+intersection+of+math+%26+code;FastAPI+%7C+GraphQL+%7C+Flutter+%7C+ML+%2F+AI;Turning+equations+into+scalable+software;Data+Science+%26+AI+undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=Building+products+that+scale+to+millions;FastAPI+%7C+GraphQL+%7C+Flutter+%7C+ML+%2F+AI;From+APIs+to+pixels%2C+I+ship+end-to-end;Data+Science+%26+AI+undergraduate" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Live Counters -->
+<img src="https://komarev.com/ghpvc/?username=wdvictor&label=Profile+views&color=A78BFA&style=for-the-badge&labelColor=302b63" alt="profile-views"/>
+<img src="https://img.shields.io/github/followers/wdvictor?label=Followers&style=for-the-badge&color=A78BFA&labelColor=302b63" alt="followers"/>
+<img src="https://img.shields.io/badge/Open_to-Collaboration-A78BFA?style=for-the-badge&labelColor=302b63" alt="open-to-collab"/>
+
+<br/><br/>
+
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdvictor)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wdvictor)
 
 </div>
 
----
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3" width="100%"/>
 
-## 🧮 About Me
+## 💻 About Me
+
+
 
 ```python
 class VictorHugo:
     def __init__(self):
         self.name        = "Victor Hugo"
-       
-        self.education   = "Data Science & Artificial Intelligence"
-        self.mindset     = ["Entrepreneurial", "Mathematical", "Product-driven"]
-        self.currently   = ["Architecting high-scale backends", "Exploring LLM integrations"]
+        self.role        = "Full-Stack Developer"
+        self.education   = "B.Sc. Data Science & AI @ UnB"
+        self.mindset     = ["Curious", "Pragmatic", "Product-driven"]
+        self.currently   = [
+            "Architecting high-scale backends",
+            "Exploring LLM integrations",
+            "Shipping mobile experiences with Flutter",
+        ]
         self.stack       = {
             "backend"  : ["FastAPI", "GraphQL", "Python", "Node.js"],
             "frontend" : ["Angular", "TypeScript"],
             "mobile"   : ["Flutter", "Kotlin", "Swift"],
             "data"     : ["Machine Learning", "AI"],
-            "infra"    : ["GCP", "AWS", "Docker", "Linux", "PostgreSQL", "Oracle"],
+            "infra"    : ["GCP", "AWS", "Docker", "Linux",
+                          "PostgreSQL", "Oracle"],
         }
 
     def philosophy(self) -> str:
-        return "Math is the language of the universe. Code is how I speak it."
+        return "Design carefully, scale gracefully."
 ```
 
----
+<br clear="right"/>
+
+<!-- Animated typing — "what I'm up to" -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=%E2%9A%A1+Currently+building+production-grade+backends;%F0%9F%A7%A0+Diving+deep+into+vector+search+%26+embeddings;%F0%9F%93%B1+Crafting+pixel-perfect+Flutter+UIs;%E2%98%81%EF%B8%8F+Designing+for+scale+on+GCP / AWS" alt="current-work" />
+</div>
+
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3" width="100%"/>
 
 ## ⚙️ Tech Stack
 
@@ -51,7 +77,7 @@ class VictorHugo:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### 📱 Mobile
@@ -69,7 +95,6 @@ class VictorHugo:
 
 ### 🧠 AI / Machine Learning
 <p>
-
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -82,16 +107,15 @@ class VictorHugo:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Spanner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
 </p>
 
 ### ☁️ Infrastructure & DevOps
 <p>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Workflow
@@ -99,25 +123,49 @@ class VictorHugo:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 </div>
 
----
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3" width="100%"/>
 
 
-> _"The best systems are those where mathematical elegance meets engineering pragmatism."_
+<br/>
 
----
+<a href="https://github.com/wdvictor">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdvictor&theme=synthwave&hide_border=true&background=0d0d24&stroke=A78BFA&ring=A78BFA&fire=ff79c6&currStreakLabel=A78BFA&sideLabels=e0d6ff&dates=e0d6ff" alt="streak" />
+</a>
+
+</div>
+
+<br/>
+
+### 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/wdvictor">
+  <img src="https://github-profile-trophy.vercel.app/?username=wdvictor&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3" width="100%"/>
+
+
+
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3" width="100%"/>
 
 ## 📌 Pinned Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 [Neural-network](https://github.com/wdvictor/Neural-network) | Pattern recognition using neural networks | C (Yes, I'm crazy) |
-| 🧍 [almighty-eye](https://github.com/deeplearningunb/almighty-eye) | Facial recognition for live streams | Python|
-
-
----
+| 🧠 [Neural-network](https://github.com/wdvictor/Neural-network) | Pattern recognition using neural networks | C (yes, I'm crazy) |
+| 🧍 [almighty-eye](https://github.com/deeplearningunb/almighty-eye) | Facial recognition for live streams | Python |
 
