@@ -15,8 +15,6 @@
 
 <!-- Live Counters -->
 <img src="https://komarev.com/ghpvc/?username=wdvictor&label=Profile+views&color=A78BFA&style=for-the-badge&labelColor=302b63" alt="profile-views"/>
-<img src="https://img.shields.io/github/followers/wdvictor?label=Followers&style=for-the-badge&color=A78BFA&labelColor=302b63" alt="followers"/>
-<img src="https://img.shields.io/badge/Open_to-Collaboration-A78BFA?style=for-the-badge&labelColor=302b63" alt="open-to-collab"/>
 
 <br/><br/>
 
