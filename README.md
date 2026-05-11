@@ -60,7 +60,7 @@ class VictorHugo:
 
 <!-- Animated typing — "what I'm up to" -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=%E2%9A%A1+Currently+building+production-grade+backends;%F0%9F%A7%A0+Diving+deep+into+vector+search+%26+embeddings;%F0%9F%93%B1+Crafting+pixel-perfect+Flutter+UIs;%E2%98%81%EF%B8%8F+Designing+for+scale+on+GCP / AWS" alt="current-work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Currently+building+production-grade+backends;Diving+deep+into+vector+search+and+embeddings;Crafting+pixel-perfect+Flutter+UIs;Designing+for+scale+on+GCP" alt="current-work" />
 </div>
 
 <!-- Animated gradient divider -->
