@@ -36,8 +36,7 @@ class VictorHugo:
     def __init__(self):
         self.name        = "Victor Hugo"
         self.role        = "Full-Stack Developer"
-        self.education   = "B.Sc. Data Science & AI @ UnB"
-        self.mindset     = ["Curious", "Pragmatic", "Product-driven"]
+        self.education   = "B.Sc. Data Science & AI @ IESB"
         self.currently   = [
             "Architecting high-scale backends",
             "Exploring LLM integrations",
@@ -49,7 +48,7 @@ class VictorHugo:
             "mobile"   : ["Flutter", "Kotlin", "Swift"],
             "data"     : ["Machine Learning", "AI"],
             "infra"    : ["GCP", "AWS", "Docker", "Linux",
-                          "PostgreSQL", "Oracle"],
+                          "PostgreSQL", "Oracle", "MongoDB],
         }
 
     def philosophy(self) -> str:
