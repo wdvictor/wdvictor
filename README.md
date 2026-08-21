@@ -4,7 +4,7 @@
 <!-- ║                     ANIMATED HEADER                           ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Victor%20Hugo&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Victor%20Hugo&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/wdvictor">
